@@ -2,3 +2,4 @@ urls: \n
 repository: https://github.com/ken-xu-is-creative/github-final-project.git
 read me: https://github.com/ken-xu-is-creative/github-final-project/blob/main/README.md
 code of conduct: https://github.com/ken-xu-is-creative/github-final-project/blob/main/CODE_OF_CONDUCT.md
+contributing:https://github.com/ken-xu-is-creative/github-final-project/blob/main/CONTRIBUTING.md
